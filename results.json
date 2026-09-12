@@ -1,0 +1,21 @@
+{
+  "last_updated": "2026-09-12T21:37:47.001980+00:00",
+  "items": [
+    {
+      "title": "Result of APRIL/MAY 2026 Examination",
+      "url": "https://www.svnit.ac.in/web/results/result_april-may-2026.php",
+      "is_result": true,
+      "session": "Other",
+      "year": 2026,
+      "is_new": true
+    },
+    {
+      "title": "Result of Nov/Dec 2025 Examination",
+      "url": "https://www.svnit.ac.in/web/results/result_nov-dec-2025.php",
+      "is_result": true,
+      "session": "Other",
+      "year": 2025,
+      "is_new": true
+    }
+  ]
+}
