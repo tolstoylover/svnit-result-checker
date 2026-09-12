@@ -1,0 +1,1 @@
+# svnit-result-checker
